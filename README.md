@@ -1,25 +1,32 @@
-# Hi there, I'm Pedro Anze 👋 
+# Hi, I'm Pedro 👋
 
-I'm a **Software Engineer and Leader** focused on building polished, high-performance web products. Currently, I'm the **CTO & Co-founder at Favorcito**, leading a team of 10 developers to scale our platform across LATAM.
+Software engineer at **Uplabs AI**, building AI employees for companies in banking, real estate and insurance.
+I come from startups, so I like owning the whole product, not just my part of the code.
 
-### 🚀 Projects & Community
-- **Favorcito:** Scaling to 50k+ users and integrating AI for operational efficiency.
-- **Google Developer Group Tarija:** Organizing hackathons and tech events to empower the local community.
+### 🤖 Now — Uplabs AI
+- Agentic systems that boost operational productivity by **90–95%**
+- Solutions that cut operational costs by **20–80%**, with full process traceability
+- Voice agents (ElevenLabs, Vapi, SIP), WhatsApp on Meta's official API, RAG pipelines and n8n automations
 
-### 🛠 Tech Stack
-- **Languages:** `JavaScript`, `TypeScript`, `Dart`, `Java`, `C++`, `PHP`, `Python`.
-- **Frontend:** `React`, `Next.js`, `Astro`, `Tailwind CSS`, `Flutter`.
-- **Backend & Cloud:** `Node.js`, `Spring Boot`, `PostgreSQL`, `Google Cloud`, `Firebase`, `Supabase`.
-- **AI & Tools:** `Vertex AI`, `n8n`, `Figma`, `Git`, `Docker`.
+### 🚀 Before — Favorcito (Founding Engineer → CTO)
+- Scaled to **50k+ users** and expanded to Peru
+- **60 B2B contracts** with enterprise clients
+- Multi-agent AI system that cut talent matching from **6 hours to 10 minutes**
 
-### 🏆 Achievements
-- **Young Entrepreneur Award (2025):** Recognized by the city of Tarija for the impact of Favorcito.
-- **3x ICPC South American Regional Finalist:** Competitive programming background with team "Strong Byte".
+### 🔎 Earlier
+- **UCB:** OCR pipeline in Python for **10k+ academic documents**, with search time cut from 1 min to 10 s
+- **Laboratorio de Tecnologías Sociales:** APIs and dashboards to query **20k+ government documents**
 
-### 📫 Let's connect!
-- 🌍 [pedroanze.com](https://pedroanze.com)
-- 💼 [LinkedIn](https://linkedin.com/in/pedroanze)
-- 💬 Reach out to me about **leadership, software development, or AI**.
+### 🌱 Community
+I organize **Google Developer Groups Tarija**: hackathons and tech events for Bolivia's dev community.
 
----
-Always building, always learning. ^^
+### 🛠 Stack
+`React` · `TypeScript` · `Java` · `Python` · `PostgreSQL` · `RAG` · `n8n` · `ElevenLabs` · `Vapi` · `Flutter` · `Supabase` · `Google Cloud`
+
+### 🏆 Recognition
+- Young Entrepreneur Award, Tarija (2025)
+- 3x ICPC South American Regional Finalist (Strong Byte)
+
+🌍 [pedroanze.com](https://pedroanze.com) · 💼 [LinkedIn](https://linkedin.com/in/pedroanze)
+
+Always building, always learning ^^
